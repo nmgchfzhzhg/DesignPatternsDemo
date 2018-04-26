@@ -1,7 +1,7 @@
 package com.designpatterns.demo.java.singleton;
 
 /**
- * 单例模式饿汉式
+ * 单例模式 饿汉式
  *
  * @author zhangzhiguo
  * @version 1.0.0
@@ -9,16 +9,16 @@ package com.designpatterns.demo.java.singleton;
  * @date 2018/4/26 上午10:07
  * @project_name DesignPatternsDemo
  */
-public class BaseSingleton {
+public class EagerSingleton {
     //    私有化构造函数
-    private BaseSingleton() {
+    private EagerSingleton() {
     }
 
     //    私有化静态对象
-    private static BaseSingleton baseSingleton = new BaseSingleton();
+    private static EagerSingleton baseSingleton = new EagerSingleton();
 
     //    提供对外获取方法
-    public static BaseSingleton getBaseSingleton() {
+    public static EagerSingleton getBaseSingleton() {
         return baseSingleton;
     }
 }
