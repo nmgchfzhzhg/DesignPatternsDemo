@@ -1,4 +1,4 @@
-package com.designpatterns.demo.kotlin.singleton
+package com.designpatterns.demo.singleton.kotlin
 
 /**
  * 单例模式 同步锁式 懒加载的方式上升级，保证线程安全

@@ -1,4 +1,4 @@
-package com.designpatterns.demo.java.singleton;
+package com.designpatterns.demo.singleton.java;
 
 /**
  * 单例模式 懒汉式

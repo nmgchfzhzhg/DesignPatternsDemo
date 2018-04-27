@@ -1,4 +1,4 @@
-package com.designpatterns.demo.java.singleton;
+package com.designpatterns.demo.singleton.java;
 
 /**
  * 单例模式 双重检测式（DCL），解决懒加载和同步锁的缺点

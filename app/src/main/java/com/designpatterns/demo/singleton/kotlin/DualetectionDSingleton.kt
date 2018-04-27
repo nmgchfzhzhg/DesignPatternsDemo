@@ -1,4 +1,4 @@
-package com.designpatterns.demo.kotlin.singleton
+package com.designpatterns.demo.singleton.kotlin
 
 
 /**

@@ -1,4 +1,4 @@
-package com.designpatterns.demo.java.singleton;
+package com.designpatterns.demo.singleton.java;
 
 /**
  * 单例模式 同步锁式 懒加载的方式上升级，保证线程安全
