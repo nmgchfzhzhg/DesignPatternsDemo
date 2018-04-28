@@ -35,6 +35,8 @@
     * 创建的一个对象需要消耗的资源过多，比如I/O与数据库的链接等
     * 工具类对象
 # 3、实现
+* [java方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/singleton/java 'java')
+* [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/singleton/kotlin 'Kotlin')
 * 饿汉式
     * 优点：写法简单，线程安全，没有加锁，执行效率高
     * 缺点：没有懒加载效果，类加载时就初始化，造成内存的浪费
