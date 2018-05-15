@@ -18,17 +18,11 @@ class ConcreteBuilder2 : Builder() {
         this.product = Product()
     }
 
-    override fun buildName() {
-        product.setName("套餐2")
-    }
+    override fun buildName() = product.setName("套餐2")
 
-    override fun buildPrice() {
-        product.setPrice(20)
-    }
+    override fun buildPrice() = product.setPrice(20)
 
-    override fun getProduce(): Product {
-        return product
-    }
+    override fun getProduce(): Product = product
 
 
 }

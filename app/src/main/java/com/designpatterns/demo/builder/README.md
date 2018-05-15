@@ -35,8 +35,8 @@
     * 创建的一个对象需要消耗的资源过多，比如I/O与数据库的链接等
     * 工具类对象
 # 3、实现
-* [java方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/singleton/java 'java')
-* [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/singleton/kotlin 'Kotlin')
+* [java方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/builder/java 'java')
+* [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/builder/kotlin 'Kotlin')
 * UML类图：
 
   ![单例模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/singleton/imgs/单例模式.png)

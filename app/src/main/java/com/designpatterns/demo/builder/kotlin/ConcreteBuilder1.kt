@@ -10,26 +10,19 @@ package com.designpatterns.demo.builder.kotlin
  * @version 1.0.0
  *
  */
-class ConcreteBuilder1: Builder() {
+class ConcreteBuilder1 : Builder() {
 
 
-    private val product :Product
+    private val product: Product
 
     init {
-        this.product=Product()
+        this.product = Product()
     }
 
-    override fun buildName() {
-        product.setName("套餐1")
+    override fun buildName() = product.setName("套餐1")
 
-    }
+    override fun buildPrice() = product.setPrice(10)
 
-    override fun buildPrice() {
-        product.setPrice(10)
-    }
-
-    override fun getProduce(): Product {
-        return product
-    }
+    override fun getProduce(): Product = product
 
 }

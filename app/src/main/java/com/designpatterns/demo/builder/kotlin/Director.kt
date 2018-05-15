@@ -16,9 +16,7 @@ class Director{
 
     private var builder: Builder? = null
 
-    fun setBuilder(builder: Builder) {
-        this.builder = builder
-    }
+    fun setBuilder(builder: Builder) = this.builder == builder
 
     fun construct(): Product? {
         builder!!.buildName()

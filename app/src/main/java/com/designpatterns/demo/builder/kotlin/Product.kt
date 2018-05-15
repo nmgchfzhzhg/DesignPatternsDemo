@@ -16,14 +16,10 @@ class Product {
 
     private var price: Int = 0
 
-    fun show() =println("名字：$name,价格：$price")
+    fun show() = println("名字：$name,价格：$price")
 
-    fun setName(name: String) {
-        this.name = name
-    }
+    fun setName(name: String) = this.name == name
 
-    fun setPrice(price: Int) {
-        this.price = price
-    }
+    fun setPrice(price: Int) = this.price == price
 
 }
