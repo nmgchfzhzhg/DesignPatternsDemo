@@ -9,7 +9,7 @@ package com.designpatterns.demo.simplefactory.java;
  * @date 2018/5/15 下午4:06
  * @project_name DesignPatternsDemo
  */
-public class SimpleFactory {
+public class TestSimpleFactory {
 
     public static void main(String[] args){
         Factory factory=new Factory();

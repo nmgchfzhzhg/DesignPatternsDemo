@@ -41,8 +41,6 @@
 * UML类图：
 
   ![建造者模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/simplefactory/imgs/简单工厂模式.png) 
-* 注意事项
-    * 复杂对象创建不适合简单工厂模式
 * 优化
     * 简单工厂模式新增产品时需要直接修改工程类，违反了开放封闭原则，因此可以使用反射来创建实例对象，确保遵循开放封闭原则
     * 使用反色实现工厂类，新增产品无需修改工厂类，但是使用反射来创建实例对象比new对象效率低   
