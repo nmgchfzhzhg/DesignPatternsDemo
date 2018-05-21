@@ -1,7 +1,5 @@
 package com.designpatterns.demo.abstractfactory.java;
 
-import com.designpatterns.demo.abstractfactory.java.FactoryA;
-import com.designpatterns.demo.abstractfactory.java.FactoryB;
 
 /**
  * 客户端通过实例化具体的工程类，并调用其创建不同目标产品的方法创建不同具体产品类的实例
