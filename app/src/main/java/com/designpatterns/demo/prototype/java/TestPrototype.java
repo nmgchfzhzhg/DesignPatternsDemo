@@ -1,6 +1,8 @@
 package com.designpatterns.demo.prototype.java;
 
 /**
+ * 测试原型模式浅拷贝与深拷贝
+ *
  * @author zhangzhiguo
  * @version 1.0.0
  * @email: 810903987@qq.com
