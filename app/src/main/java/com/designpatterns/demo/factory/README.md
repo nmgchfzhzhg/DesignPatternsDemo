@@ -54,7 +54,7 @@
 * [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/factory/kotlin 'Kotlin')
 * UML类图：
 
-  ![单例模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/factory/imgs/工厂模式.png)  
+  ![工厂模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/factory/imgs/工厂模式.png)  
 * 注意事项
     * 作为一个创建型模式，在任何需要生成复杂对象的地方，都可以使用工厂方法模式，有一点需要注意的地方就是复杂对象适合使用工厂模式
       简单对象，只需要通过new就可以完成创建的对象，无需使用工厂模式，如果使用工厂模式，就需要引入一个工厂类，增加系统的复杂度

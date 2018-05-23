@@ -43,7 +43,7 @@
 * [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/abstractfactory/kotlin 'Kotlin')
 * UML类图：
 
-  ![单例模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/abstractfactory/imgs/抽象工厂模式.png)  
+  ![抽象工厂模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/abstractfactory/imgs/抽象工厂模式.png)  
 * 使用步骤
     * 1、创建抽象工厂类，定义抽象工厂的公共接口
     * 2、创建抽象产品族类，定义抽象产品的公共接口
