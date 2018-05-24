@@ -7,14 +7,18 @@
 
 <table>
   <tr>
-    <th width=10%, bgcolor=yellow >参数</th>
-    <th width=40%, bgcolor=yellow>详细解释</th>
-    <th width="50%", bgcolor=yellow>备注</th>
+    <th width=10%, bgcolor=yellow >模式</th>
+    <th width=40%, bgcolor=yellow>描述</th>
+    <th width="50%", bgcolor=yellow>包括</th>
   </tr>
   <tr>
-    <td bgcolor=#eeeeee> -l </td>
-    <td> use a long listing format  </td>
-    <td> 以长列表方式显示（显示出文件/文件夹详细信息）  </td>
+    <td bgcolor=#eeeeee> 创建型模式 </td>
+    <td> 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。 </td>
+    <td> 工厂模式（Factory Pattern）<br>
+         抽象工厂模式（Abstract Factory Pattern）<br>
+         单例模式（Singleton Pattern）<br>
+         建造者模式（Builder Pattern）<br>
+         原型模式（Prototype Pattern）<br>  </td>
   </tr>
   <tr>
     <td bgcolor=#00FF00>-t </td>
