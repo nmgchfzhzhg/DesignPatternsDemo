@@ -14,12 +14,13 @@
   <tr>
     <td bgcolor=#eeeeee> 创建型模式 </td>
     <td> 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。 </td>
-    <td> <ul><div title="我是鼠标悬停文字"><a href="你需要指向的链接地址">工厂模式（Factory Pattern）</div> 
-         <a href="你需要指向的链接地址">抽象工厂模式（Abstract Factory Pattern）<br>
-         <a href="你需要指向的链接地址">单例模式（Singleton Pattern）<br>
-         <a href="你需要指向的链接地址">建造者模式（Builder Pattern）<br>
-         <a href="你需要指向的链接地址">原型模式（Prototype Pattern）<br>  </td>
+    <td> <ul><li><div title="我是鼠标悬停文字"><a href="你需要指向的链接地址">工厂模式（Factory Pattern）</div>/li> 
+        <li><a href="你需要指向的链接地址">抽象工厂模式（Abstract Factory Pattern）<br></li>
+         <li><a href="你需要指向的链接地址">单例模式（Singleton Pattern）<br>/li>
+         <li><a href="你需要指向的链接地址">建造者模式（Builder Pattern）<br>v
+         <li><a href="你需要指向的链接地址">原型模式（Prototype Pattern）<br>/li> 
          </ul>
+     </td>
   </tr>
 </table>
 
