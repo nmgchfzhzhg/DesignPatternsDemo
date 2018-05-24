@@ -24,7 +24,7 @@
         <ul>
             <li><div title="单例模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/singleton">单例模式（Singleton Pattern）</div></li> 
             <li><div title="工厂模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/factory">工厂模式（Factory Pattern）</div></li> 
-            <li><div title="简单工厂模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/simplefactory">简单工厂模式（Factory Pattern）</div></li> 
+            <li><div title="简单工厂模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/simplefactory">简单工厂模式（SimpleFactory Pattern）</div></li> 
             <li><div title="抽象工厂模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/abstractfactory">抽象工厂模式（Abstract Factory Pattern）</div></li> 
             <li><div title="建造者模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/builder">建造者模式（Builder Pattern）</div></li> 
             <li><div title="原型模式"><a href="https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/creational/prototype">原型模式（Prototype Pattern）</div></li> 
