@@ -40,7 +40,7 @@
 * [Kotlin方式实现](https://github.com/nmgchfzhzhg/DesignPatternsDemo/tree/master/app/src/main/java/com/designpatterns/demo/behavioral/strategy/kotlin 'Kotlin')
 * UML类图：
 
-  ![策略模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/behavioral/strategy/imgs/建造者模式.png) 
+  ![策略模式](https://github.com/nmgchfzhzhg/DesignPatternsDemo/raw/master/app/src/main/java/com/designpatterns/demo/behavioral/strategy/imgs/策略模式.png) 
 * 注意事项
     * 如果一个系统的策略多余四个，需要考虑使用混合模式，解决策略类的膨胀问题
     * 一般来说策略模式不会单独使用，跟模板方法模式、工厂模式等混合使用
