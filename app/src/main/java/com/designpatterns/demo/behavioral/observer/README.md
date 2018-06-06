@@ -3,7 +3,8 @@
 
 ## 1、定义
      观察者模式属于行为模式
-     观察者模式又被称作发布/订阅（Publish/Subscribe）模式、模型/视图（Model/View）模式、源/监听器（Source/Listener）模式或从属者（Dependents）模式
+     观察者模式又被称作发布/订阅（Publish/Subscribe）模式、模型/视图（Model/View）模式、源/监听器（Source/Listener）
+     模式或从属者（Dependents）模式
      观察者模式：定义对象间的一种一对多的依赖关系，当一个对象的状态发送改变时，所依赖于他的对象都得到通知并被自动更新
      
 ## 2、介绍
@@ -53,4 +54,4 @@
 ## 参考链接
 * [RUNOOB.COM](http://www.runoob.com/design-pattern/observer-pattern.html "RUNOOB.COM")
 * [Android的设计模式-观察者模式](https://www.jianshu.com/p/8f32da74cd8b "观察者模式")
-* [JAVA与模式》之观察者模式](http://www.cnblogs.com/java-my-life/archive/2012/05/16/2502279.html "JAVA与模式》之观察者模式")
+* [《JAVA与模式》之观察者模式](http://www.cnblogs.com/java-my-life/archive/2012/05/16/2502279.html "JAVA与模式》之观察者模式")
